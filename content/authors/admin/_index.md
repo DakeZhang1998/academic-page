@@ -1,6 +1,7 @@
 ---
-title: Dake Zhang 张大珂
-role: Professor of Artificial Intelligence
+title: 张大珂 ZHANG Dake
+role: Master of Mathematics in Computer Science
+avatar_filename: dake-zhang.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -24,19 +25,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Waterloo
+    url: https://uwaterloo.ca/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Mathematics in Computer Science
+      institution: University of Waterloo
+      year: 2022
+    - course: Bachelor of Science in Software Engineering
+      institution: Wuhan University
+      year: 2020
 email: ""
 superuser: true
 highlight_name: false
