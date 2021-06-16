@@ -1,7 +1,7 @@
 ---
 title: 张大珂 ZHANG Dake
 role: Master of Mathematics in Computer Science
-avatar_filename: dake-zhang.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
