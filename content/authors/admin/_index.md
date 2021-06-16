@@ -29,10 +29,10 @@ organizations:
     url: https://uwaterloo.ca/
 education:
   courses:
-    - course: Master of Mathematics in Computer Science
+    - course: MMath in Computer Science
       institution: University of Waterloo
       year: 2022
-    - course: Bachelor of Science in Software Engineering
+    - course: BSc in Software Engineering
       institution: Wuhan University
       year: 2020
 email: ""
