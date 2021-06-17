@@ -14,16 +14,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ZhangDake1998
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: zhangdake.com.cn
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/DakeZhang1998
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zhangdake/
 organizations:
   - name: University of Waterloo
     url: https://uwaterloo.ca/
