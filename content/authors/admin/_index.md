@@ -40,7 +40,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Hi, I am a Master's student in Computer Science at the {{< staticref "https://uwaterloo.ca/" "newtab" >}}University of Waterloo{{< /staticref >}} advised by {{< staticref "https://www.mansci.uwaterloo.ca/~msmucker/" "newtab" >}}Prof. Mark Smucker{{< /staticref >}} and a member of the {{< staticref "https://uwaterloo.ca/data-systems-group/" "newtab" >}}Data Systems Group{{< /staticref >}} . My research interests include Information Retrieval, Natural Language Processing, and Artificial Intelligence. My recent work is to fight against online misinformation, specifically health misinformation. Before that, I received my Bachelor's degree in Software Engineering from {{< staticref "https://en.whu.edu.cn/" "newtab" >}}Wuhan University{{< /staticref >}}.
+> Behind every beautiful thing, there is some kind of pain.
+
+Hi, I'm ZHANG Dake (张大珂), a Master's student in Computer Science at the {{< staticref "https://uwaterloo.ca/" "newtab" >}}University of Waterloo{{< /staticref >}} advised by {{< staticref "https://www.mansci.uwaterloo.ca/~msmucker/" "newtab" >}}Prof. Mark Smucker{{< /staticref >}} and a member of the {{< staticref "https://uwaterloo.ca/data-systems-group/" "newtab" >}}Data Systems Group{{< /staticref >}} . My research interests include Information Retrieval, Natural Language Processing, and Artificial Intelligence. My recent work is to fight against online misinformation, specifically health misinformation. Before that, I received my Bachelor's degree in Software Engineering from {{< staticref "https://en.whu.edu.cn/" "newtab" >}}Wuhan University{{< /staticref >}}.
 
 \> Behind every beautiful thing, there is some kind of pain.
 
